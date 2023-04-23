@@ -8,3 +8,4 @@ words_topics.csv
 resources
 .DS_Store
 .gitignore
+.ipynb_checkpoints/
