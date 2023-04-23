@@ -6,3 +6,5 @@ data/trs_mrk20.csv
 data/trs_mrk21.csv
 words_topics.csv
 resources
+.DS_Store
+.gitignore
